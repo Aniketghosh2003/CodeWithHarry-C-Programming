@@ -1,2 +1,2 @@
 # CodeWithHarry-C-Programming
-Welcome to the CodeWithHarry C Programming Repository, your one-stop destination for mastering the intricacies of the C programming language! 🚀
+Welcome to the CodeWithHarry C Programming Repository! 🚀 This repository houses a curated collection of C programming code snippets and projects by CodeWithHarry, a prominent educator in the programming community. Whether you're a novice coder or an experienced developer, this repository is designed to help you master the fundamentals and intricacies of the C programming language.
